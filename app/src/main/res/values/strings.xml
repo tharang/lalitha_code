@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beakon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="beacon_name">Finding beacon!</string>
+    <string name="last_recorded_at">Last recoded at</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">DisplayActivity</string>
+</resources>
